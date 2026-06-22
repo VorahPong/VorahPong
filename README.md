@@ -33,5 +33,5 @@ AWS · Docker · Linux · Wireshark · tcpdump · GitHub Actions
 ## 📫 Connect
 
 - Portfolio: https://personal-portfolio-frontend-sigma.vercel.app/
-- LinkedIn: linkedin.com/in/vorahpong-mean-44a960300/
+- LinkedIn: https://linkedin.com/in/vorahpong-mean-44a960300/
 - Email: vorahpongmean@gmail.com
